@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.736186fe.chunk.css",
+    "main.js": "/static/js/main.59ef9971.chunk.js",
+    "main.js.map": "/static/js/main.59ef9971.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b0602a4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b0602a4.js.map",
+    "static/js/2.583a809f.chunk.js": "/static/js/2.583a809f.chunk.js",
+    "static/js/2.583a809f.chunk.js.map": "/static/js/2.583a809f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1ac555aeb082c4d9c6274cf09c9311c8.js": "/precache-manifest.1ac555aeb082c4d9c6274cf09c9311c8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.736186fe.chunk.css.map": "/static/css/main.736186fe.chunk.css.map",
+    "static/js/2.583a809f.chunk.js.LICENSE.txt": "/static/js/2.583a809f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Header_background.4a0e0a80.png",
+    "static/media/Iphone.png": "/static/media/Iphone.63d97994.png",
+    "static/media/active_green_proximity.png": "/static/media/active_green_proximity.35f8dcc2.png",
+    "static/media/aprilbeacon.png": "/static/media/aprilbeacon.ddb61747.png",
+    "static/media/asersor.png": "/static/media/asersor.5e0e6f07.png",
+    "static/media/blue_proximity.png": "/static/media/blue_proximity.4aedbe10.png",
+    "static/media/cortex.png": "/static/media/cortex.62fe2c40.png",
+    "static/media/promo.png": "/static/media/promo.fb12b782.png",
+    "static/media/wall.png": "/static/media/wall.748545c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b0602a4.js",
+    "static/js/2.583a809f.chunk.js",
+    "static/css/main.736186fe.chunk.css",
+    "static/js/main.59ef9971.chunk.js"
+  ]
+}
